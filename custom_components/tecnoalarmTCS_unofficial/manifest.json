@@ -1,10 +1,11 @@
 {
     "domain": "tecnoalarmTCS_unofficial",
     "name": "tecnoalarmTCS_unofficial",
+    "codeowners": ["@dado483"],
     "config_flow": "true",
-    "version": "1.1",
-    "documentation": "TBD",
-    "requirements": ["requests", "retry", "pydantic", "pytcs-tecnoalarm>=0.3"],
     "dependencies": [],
-    "codeowners": ["@dado483"]
+    "documentation": "https://github.com/dado483/tecnoalarmTCS_unofficial",
+    "issue_tracker": "https://github.com/dado483/tecnoalarmTCS_unofficial/issues",
+    "requirements": ["requests", "retry", "pydantic", "pytcs-tecnoalarm>=0.3"],
+    "version": "1.1"
 }
