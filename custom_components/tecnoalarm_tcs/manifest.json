@@ -4,8 +4,8 @@
     "codeowners": ["@dado483"],
     "config_flow": "true",
     "dependencies": [],
-    "documentation": "https://github.com/dado483/tecnoalarmTCS_unofficial",
-    "issue_tracker": "https://github.com/dado483/tecnoalarmTCS_unofficial/issues",
+    "documentation": "https://github.com/dado483/tecnoalarm_tcs",
+    "issue_tracker": "https://github.com/dado483/tecnoalarm_tcs/issues",
     "requirements": ["requests", "retry", "pydantic", "pytcs-tecnoalarm>=0.3"],
     "version": "1.1"
 }
