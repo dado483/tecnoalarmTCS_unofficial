@@ -1,1 +1,0 @@
-DOMAIN = "tecnoalarmTCS_unofficial"

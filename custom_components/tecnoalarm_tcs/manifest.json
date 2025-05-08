@@ -1,6 +1,6 @@
 {
-    "domain": "tecnoalarmTCS_unofficial",
-    "name": "tecnoalarmTCS_unofficial",
+    "domain": "tecnoalarm_tcs",
+    "name": "tecnoalarm_tcs",
     "codeowners": ["@dado483"],
     "config_flow": "true",
     "dependencies": [],
